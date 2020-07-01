@@ -9,6 +9,6 @@ If you are on a Mac you're on your own.
 
 If you are on a Linux Machine you should be competent enough to find your config directory.
 
-local_server - contains the commands I execute when I am messing around in an offline server.
+local_server - Contains the commands I execute when I am messing around in an offline server.
 
 autoexec - CS:GO executes this file on startup. I use it for storing my settings as it makes seting up a new machine very easy.
